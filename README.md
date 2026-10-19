@@ -6,3 +6,4 @@
 - รูปอยู่ใน `images/` วิดีโออยู่ใน `videos/`
 - ฉบับนี้ใส่ `noindex` ไว้ Google จะยังไม่แสดงในผลค้นหา — เมื่อลูกพี่อนุมัติแล้วให้ลบบรรทัด
   `<meta name="robots" content="noindex, nofollow">` ใน `index.html`
+.
